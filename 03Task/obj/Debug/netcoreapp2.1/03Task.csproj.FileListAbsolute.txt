@@ -8,3 +8,4 @@ C:\Projects\Chapter3\03Task\obj\Debug\netcoreapp2.1\03Task.AssemblyInfoInputs.ca
 C:\Projects\Chapter3\03Task\obj\Debug\netcoreapp2.1\03Task.AssemblyInfo.cs
 C:\Projects\Chapter3\03Task\obj\Debug\netcoreapp2.1\03Task.dll
 C:\Projects\Chapter3\03Task\obj\Debug\netcoreapp2.1\03Task.pdb
+C:\Projects\Chapter3\03Task\obj\Debug\netcoreapp2.1\03Task.csprojAssemblyReference.cache
